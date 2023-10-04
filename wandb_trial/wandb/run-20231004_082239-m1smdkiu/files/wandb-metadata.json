@@ -1,0 +1,53 @@
+{
+    "os": "Linux-4.14.320-242.534.amzn2.x86_64-x86_64-with-glibc2.26",
+    "python": "3.10.11",
+    "heartbeatAt": "2023-10-04T08:22:40.053206",
+    "startedAt": "2023-10-04T08:22:39.468563",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "host": "ip-172-31-43-251.ap-northeast-1.compute.internal",
+    "username": "ec2-user",
+    "executable": "/home/ec2-user/miniconda3/envs/py310/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2400.184,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400.184,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2400.184,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2400.184,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2400.184,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 59.98826217651367,
+            "used": 49.62345504760742
+        }
+    },
+    "memory": {
+        "total": 15.650230407714844
+    }
+}
