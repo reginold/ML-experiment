@@ -1,0 +1,5 @@
+[submodule "https://dagshub.com/DAGsHub-Official/dagshub-docs"]
+	url = raw
+[submodule "data/raw"]
+	path = data/raw
+	url = https://dagshub.com/dagshub-official/dagshub-docs.git
