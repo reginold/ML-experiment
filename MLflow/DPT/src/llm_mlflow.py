@@ -66,7 +66,7 @@ PROMPT = {
     ),
 }
 
-def generate_input(query,prompt_format,n_results=10,context_length=16385):
+def generate_input(query,prompt_format,n_results=10,context_length=8192):
 
     inputs={}
     inputs['query']=query
