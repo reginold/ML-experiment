@@ -1,0 +1,4 @@
+- create the MLflow for the image classfication
+- create the wandb for the image classication
+- create the MLflow for LLM
+- create the wandb for LLM
